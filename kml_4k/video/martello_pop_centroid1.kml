@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="martello_pop_centroid1.schema">
+      <SimpleField name="OGR_STYLE" type="string"/>
+    </Schema>
+    <Document id="martello_pop_centroid1">
+      <name>martello_pop_centroid1</name>
+      <Placemark id="martello_pop_centroid1.1">
+        <Style>
+          <IconStyle>
+            
+               <Icon>
+                 <href>http://maps.google.com/mapfiles/kml/pal2/icon13.png</href>
+              </Icon>
+          </IconStyle>
+          <LineStyle>
+            <color>ffffffff</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#martello_pop_centroid1.schema">
+            <SimpleData name="OGR_STYLE">PEN(c:#ffffffff,w:3px);SYMBOL(c:#ff0079b3,id:);</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.7819297248866,46.5613048323328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="martello_pop_grid_label.schema">
+      <SimpleField name="GRD_ID" type="string"/>
+      <SimpleField name="TOT_P" type="float"/>
+      <SimpleField name="CNTR_CODE" type="string"/>
+      <SimpleField name="METHD_CL" type="string"/>
+      <SimpleField name="YEAR" type="float"/>
+      <SimpleField name="DATA_SRC" type="string"/>
+      <SimpleField name="TOT_P_CON_DT" type="string"/>
+      <SimpleField name="OGR_STYLE" type="string"/>
+    </Schema>
+    <Document id="martello_pop_grid_label">
+      <name>martello_pop_grid_label</name>
+      <Placemark id="martello_pop_grid_label.1">
+        <name>9</name>
+        <Style><IconStyle><color>00000000</color></IconStyle><LineStyle><color>ffffffff</color><width>17.00784</width></LineStyle><PolyStyle><color>00000000</color></PolyStyle>LabelStyle<LabelStyle>scale<scale>3</scale></LabelStyle></Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#martello_pop_grid_label.schema">
+            <SimpleData name="GRD_ID">1kmN2597E4373</SimpleData>
+            <SimpleData name="TOT_P">9</SimpleData>
+            <SimpleData name="CNTR_CODE">IT</SimpleData>
+            <SimpleData name="METHD_CL">M</SimpleData>
+            <SimpleData name="YEAR">2011</SimpleData>
+            <SimpleData name="DATA_SRC">IT</SimpleData>
+            <SimpleData name="TOT_P_CON_DT">0</SimpleData>
+            <SimpleData name="OGR_STYLE">BRUSH(fc:#00000000);PEN(c:#ffffffff,w:6);SYMBOL(c:#00000000,id:);LABEL(f:Roboto Sans, Noto Sans, Helvetica,s:24pt,t:9,m:m)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.6830759870943,46.4886111562172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="martello_pop_grid_label.2">
+        <name>1</name>
+        <Style><IconStyle><color>00000000</color></IconStyle><LineStyle><color>ffffffff</color><width>17.00784</width></LineStyle><PolyStyle><color>00000000</color></PolyStyle>LabelStyle<LabelStyle>scale<scale>3</scale></LabelStyle></Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#martello_pop_grid_label.schema">
+            <SimpleData name="GRD_ID">1kmN2597E4374</SimpleData>
+            <SimpleData name="TOT_P">1</SimpleData>
+            <SimpleData name="CNTR_CODE">IT</SimpleData>
+            <SimpleData name="METHD_CL">M</SimpleData>
+            <SimpleData name="YEAR">2011</SimpleData>
+            <SimpleData name="DATA_SRC">IT</SimpleData>
+            <SimpleData name="TOT_P_CON_DT">0</SimpleData>
+            <SimpleData name="OGR_STYLE">BRUSH(fc:#00000000);PEN(c:#ffffffff,w:6);SYMBOL(c:#00000000,id:);LABEL(f:Roboto Sans, Noto Sans, Helvetica,s:24pt,t:1,m:m)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.696086299784,46.4885275764919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="martello_pop_grid_label.3">
+        <name>7</name>
+        <Style><IconStyle><color>00000000</color></IconStyle><LineStyle><color>ffffffff</color><width>17.00784</width></LineStyle><PolyStyle><color>00000000</color></PolyStyle>LabelStyle<LabelStyle>scale<scale>3</scale></LabelStyle></Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#martello_pop_grid_label.schema">
+            <SimpleData name="GRD_ID">1kmN2598E4375</SimpleData>
+            <SimpleData name="TOT_P">7</SimpleData>
+            <SimpleData name="CNTR_CODE">IT</SimpleData>
+            <SimpleData name="METHD_CL">M</SimpleData>
+            <SimpleData name="YEAR">2011</SimpleData>
+            <SimpleData name="DATA_SRC">IT</SimpleData>
+            <SimpleData name="TOT_P_CON_DT">0</SimpleData>
+            <SimpleData name="OGR_STYLE">BRUSH(fc:#00000000);PEN(c:#ffffffff,w:6);SYMBOL(c:#00000000,id:);LABEL(f:Roboto Sans, Noto Sans, Helvetica,s:24pt,t:7,m:m)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.7092161849758,46.4974473714946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="martello_pop_grid_label.4">
+        <name>1</name>
+        <Style><IconStyle><color>00000000</color></IconStyle><LineStyle><color>ffffffff</color><width>17.00784</width></LineStyle><PolyStyle><color>00000000</color></PolyStyle>LabelStyle<LabelStyle>scale<scale>3</scale></LabelStyle></Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#martello_pop_grid_label.schema">
+            <SimpleData name="GRD_ID">1kmN2599E4376</SimpleData>
+            <SimpleData name="TOT_P">1</SimpleData>
+            <SimpleData name="CNTR_CODE">IT</SimpleData>
+            <SimpleData name="METHD_CL">M</SimpleData>
+            <SimpleData name="YEAR">2011</SimpleData>
+            <SimpleData name="DATA_SRC">IT</SimpleData>
+            <SimpleData name="TOT_P_CON_DT">0</SimpleData>
+            <SimpleData name="OGR_STYLE">BRUSH(fc:#00000000);PEN(c:#ffffffff,w:6);SYMBOL(c:#00000000,id:);LABEL(f:Roboto Sans, Noto Sans, Helvetica,s:24pt,t:1,m:m)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.7223504737089,46.5063655089331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="martello_pop_grid_label.5">
+        <name>1</name>
+        <Style><IconStyle><color>00000000</color></IconStyle><LineStyle><color>ffffffff</color><width>17.00784</width></LineStyle><PolyStyle><color>00000000</color></PolyStyle>LabelStyle<LabelStyle>scale<scale>3</scale></LabelStyle></Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#martello_pop_grid_label.schema">
+            <SimpleData name="GRD_ID">1kmN2600E4376</SimpleData>
+            <SimpleData name="TOT_P">1</SimpleData>
+            <SimpleData name="CNTR_CODE">IT</SimpleData>
+            <SimpleData name="METHD_CL">M</SimpleData>
+            <SimpleData name="YEAR">2011</SimpleData>
+            <SimpleData name="DATA_SRC">IT</SimpleData>
+            <SimpleData name="TOT_P_CON_DT">0</SimpleData>
+            <SimpleData name="OGR_STYLE">BRUSH(fc:#00000000);PEN(c:#ffffffff,w:6);SYMBOL(c:#00000000,id:);LABEL(f:Roboto Sans, Noto Sans, Helvetica,s:24pt,t:1,m:m)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.722472383926,46.515370349848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="martello_pop_grid_label.6">
+        <name>2</name>
+        <Style><IconStyle><color>00000000</color></IconStyle><LineStyle><color>ffffffff</color><width>17.00784</width></LineStyle><PolyStyle><color>00000000</color></PolyStyle>LabelStyle<LabelStyle>scale<scale>3</scale></LabelStyle></Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#martello_pop_grid_label.schema">
+            <SimpleData name="GRD_ID">1kmN2600E4377</SimpleData>
+            <SimpleData name="TOT_P">2</SimpleData>
+            <SimpleData name="CNTR_CODE">IT</SimpleData>
+            <SimpleData name="METHD_CL">M</SimpleData>
+            <SimpleData name="YEAR">2011</SimpleData>
+            <SimpleData name="DATA_SRC">IT</SimpleData>
+            <SimpleData name="TOT_P_CON_DT">0</SimpleData>
+            <SimpleData name="OGR_STYLE">BRUSH(fc:#00000000);PEN(c:#ffffffff,w:6);SYMBOL(c:#00000000,id:);LABEL(f:Roboto Sans, Noto Sans, Helvetica,s:24pt,t:2,m:m)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.7354891681124,46.5152819879258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="martello_pop_grid_label.7">
+        <name>1</name>
+        <Style><IconStyle><color>00000000</color></IconStyle><LineStyle><color>ffffffff</color><width>17.00784</width></LineStyle><PolyStyle><color>00000000</color></PolyStyle>LabelStyle<LabelStyle>scale<scale>3</scale></LabelStyle></Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#martello_pop_grid_label.schema">
+            <SimpleData name="GRD_ID">1kmN2601E4377</SimpleData>
+            <SimpleData name="TOT_P">1</SimpleData>
+            <SimpleData name="CNTR_CODE">IT</SimpleData>
+            <SimpleData name="METHD_CL">M</SimpleData>
+            <SimpleData name="YEAR">2011</SimpleData>
+            <SimpleData name="DATA_SRC">IT</SimpleData>
+            <SimpleData name="TOT_P_CON_DT">0</SimpleData>
+            <SimpleData name="OGR_STYLE">BRUSH(fc:#00000000);PEN(c:#ffffffff,w:6);SYMBOL(c:#00000000,id:);LABEL(f:Roboto Sans, Noto Sans, Helvetica,s:24pt,t:1,m:m)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.735613328547,46.5242867648088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="martello_pop_grid_label.8">
+        <name>4</name>
+        <Style><IconStyle><color>00000000</color></IconStyle><LineStyle><color>ffffffff</color><width>17.00784</width></LineStyle><PolyStyle><color>00000000</color></PolyStyle>LabelStyle<LabelStyle>scale<scale>3</scale></LabelStyle></Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#martello_pop_grid_label.schema">
+            <SimpleData name="GRD_ID">1kmN2602E4378</SimpleData>
+            <SimpleData name="TOT_P">4</SimpleData>
+            <SimpleData name="CNTR_CODE">IT</SimpleData>
+            <SimpleData name="METHD_CL">M</SimpleData>
+            <SimpleData name="YEAR">2011</SimpleData>
+            <SimpleData name="DATA_SRC">IT</SimpleData>
+            <SimpleData name="TOT_P_CON_DT">0</SimpleData>
+            <SimpleData name="OGR_STYLE">BRUSH(fc:#00000000);PEN(c:#ffffffff,w:6);SYMBOL(c:#00000000,id:);LABEL(f:Roboto Sans, Noto Sans, Helvetica,s:24pt,t:4,m:m)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.7487586828903,46.5332015201741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="martello_pop_grid_label.9">
+        <name>12</name>
+        <Style><IconStyle><color>00000000</color></IconStyle><LineStyle><color>ffffffff</color><width>17.00784</width></LineStyle><PolyStyle><color>00000000</color></PolyStyle>LabelStyle<LabelStyle>scale<scale>3</scale></LabelStyle></Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#martello_pop_grid_label.schema">
+            <SimpleData name="GRD_ID">1kmN2603E4378</SimpleData>
+            <SimpleData name="TOT_P">12</SimpleData>
+            <SimpleData name="CNTR_CODE">IT</SimpleData>
+            <SimpleData name="METHD_CL">M</SimpleData>
+            <SimpleData name="YEAR">2011</SimpleData>
+            <SimpleData name="DATA_SRC">IT</SimpleData>
+            <SimpleData name="TOT_P_CON_DT">0</SimpleData>
+            <SimpleData name="OGR_STYLE">BRUSH(fc:#00000000);PEN(c:#ffffffff,w:6);SYMBOL(c:#00000000,id:);LABEL(f:Roboto Sans, Noto Sans, Helvetica,s:24pt,t:12,m:m)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.7488851506196,46.5422061860667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="martello_pop_grid_label.10">
+        <name>19</name>
+        <Style><IconStyle><color>00000000</color></IconStyle><LineStyle><color>ffffffff</color><width>17.00784</width></LineStyle><PolyStyle><color>00000000</color></PolyStyle>LabelStyle<LabelStyle>scale<scale>3</scale></LabelStyle></Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#martello_pop_grid_label.schema">
+            <SimpleData name="GRD_ID">1kmN2603E4379</SimpleData>
+            <SimpleData name="TOT_P">19</SimpleData>
+            <SimpleData name="CNTR_CODE">IT</SimpleData>
+            <SimpleData name="METHD_CL">M</SimpleData>
+            <SimpleData name="YEAR">2011</SimpleData>
+            <SimpleData name="DATA_SRC">IT</SimpleData>
+            <SimpleData name="TOT_P_CON_DT">0</SimpleData>
+            <SimpleData name="OGR_STYLE">BRUSH(fc:#00000000);PEN(c:#ffffffff,w:6);SYMBOL(c:#00000000,id:);LABEL(f:Roboto Sans, Noto Sans, Helvetica,s:24pt,t:19,m:m)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.761908449087,46.54211461506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="martello_pop_grid_label.11">
+        <name>17</name>
+        <Style><IconStyle><color>00000000</color></IconStyle><LineStyle><color>ffffffff</color><width>17.00784</width></LineStyle><PolyStyle><color>00000000</color></PolyStyle>LabelStyle<LabelStyle>scale<scale>3</scale></LabelStyle></Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#martello_pop_grid_label.schema">
+            <SimpleData name="GRD_ID">1kmN2603E4380</SimpleData>
+            <SimpleData name="TOT_P">17</SimpleData>
+            <SimpleData name="CNTR_CODE">IT</SimpleData>
+            <SimpleData name="METHD_CL">M</SimpleData>
+            <SimpleData name="YEAR">2011</SimpleData>
+            <SimpleData name="DATA_SRC">IT</SimpleData>
+            <SimpleData name="TOT_P_CON_DT">0</SimpleData>
+            <SimpleData name="OGR_STYLE">BRUSH(fc:#00000000);PEN(c:#ffffffff,w:6);SYMBOL(c:#00000000,id:);LABEL(f:Roboto Sans, Noto Sans, Helvetica,s:24pt,t:17,m:m)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.7749317066391,46.5420214654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="martello_pop_grid_label.12">
+        <name>155</name>
+        <Style><IconStyle><color>00000000</color></IconStyle><LineStyle><color>ffffffff</color><width>17.00784</width></LineStyle><PolyStyle><color>00000000</color></PolyStyle>LabelStyle<LabelStyle>scale<scale>3</scale></LabelStyle></Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#martello_pop_grid_label.schema">
+            <SimpleData name="GRD_ID">1kmN2604E4380</SimpleData>
+            <SimpleData name="TOT_P">155</SimpleData>
+            <SimpleData name="CNTR_CODE">IT</SimpleData>
+            <SimpleData name="METHD_CL">M</SimpleData>
+            <SimpleData name="YEAR">2011</SimpleData>
+            <SimpleData name="DATA_SRC">IT</SimpleData>
+            <SimpleData name="TOT_P_CON_DT">0</SimpleData>
+            <SimpleData name="OGR_STYLE">BRUSH(fc:#00000000);PEN(c:#ffffffff,w:6);SYMBOL(c:#00000000,id:);LABEL(f:Roboto Sans, Noto Sans, Helvetica,s:24pt,t:155,m:m)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.7750626292683,46.5510260485824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="martello_pop_grid_label.13">
+        <name>9</name>
+        <Style><IconStyle><color>00000000</color></IconStyle><LineStyle><color>ffffffff</color><width>17.00784</width></LineStyle><PolyStyle><color>00000000</color></PolyStyle>LabelStyle<LabelStyle>scale<scale>3</scale></LabelStyle></Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#martello_pop_grid_label.schema">
+            <SimpleData name="GRD_ID">1kmN2604E4381</SimpleData>
+            <SimpleData name="TOT_P">9</SimpleData>
+            <SimpleData name="CNTR_CODE">IT</SimpleData>
+            <SimpleData name="METHD_CL">M</SimpleData>
+            <SimpleData name="YEAR">2011</SimpleData>
+            <SimpleData name="DATA_SRC">IT</SimpleData>
+            <SimpleData name="TOT_P_CON_DT">0</SimpleData>
+            <SimpleData name="OGR_STYLE">BRUSH(fc:#00000000);PEN(c:#ffffffff,w:6);SYMBOL(c:#00000000,id:);LABEL(f:Roboto Sans, Noto Sans, Helvetica,s:24pt,t:9,m:m)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.7880880450203,46.5509313017773,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="martello_pop_grid_label.14">
+        <name>120</name>
+        <Style><IconStyle><color>00000000</color></IconStyle><LineStyle><color>ffffffff</color><width>17.00784</width></LineStyle><PolyStyle><color>00000000</color></PolyStyle>LabelStyle<LabelStyle>scale<scale>3</scale></LabelStyle></Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#martello_pop_grid_label.schema">
+            <SimpleData name="GRD_ID">1kmN2605E4380</SimpleData>
+            <SimpleData name="TOT_P">120</SimpleData>
+            <SimpleData name="CNTR_CODE">IT</SimpleData>
+            <SimpleData name="METHD_CL">M</SimpleData>
+            <SimpleData name="YEAR">2011</SimpleData>
+            <SimpleData name="DATA_SRC">IT</SimpleData>
+            <SimpleData name="TOT_P_CON_DT">0</SimpleData>
+            <SimpleData name="OGR_STYLE">BRUSH(fc:#00000000);PEN(c:#ffffffff,w:6);SYMBOL(c:#00000000,id:);LABEL(f:Roboto Sans, Noto Sans, Helvetica,s:24pt,t:120,m:m)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.7751936090399,46.5600305851697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="martello_pop_grid_label.15">
+        <name>127</name>
+        <Style><IconStyle><color>00000000</color></IconStyle><LineStyle><color>ffffffff</color><width>17.00784</width></LineStyle><PolyStyle><color>00000000</color></PolyStyle>LabelStyle<LabelStyle>scale<scale>3</scale></LabelStyle></Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#martello_pop_grid_label.schema">
+            <SimpleData name="GRD_ID">1kmN2605E4381</SimpleData>
+            <SimpleData name="TOT_P">127</SimpleData>
+            <SimpleData name="CNTR_CODE">IT</SimpleData>
+            <SimpleData name="METHD_CL">M</SimpleData>
+            <SimpleData name="YEAR">2011</SimpleData>
+            <SimpleData name="DATA_SRC">IT</SimpleData>
+            <SimpleData name="TOT_P_CON_DT">0</SimpleData>
+            <SimpleData name="OGR_STYLE">BRUSH(fc:#00000000);PEN(c:#ffffffff,w:6);SYMBOL(c:#00000000,id:);LABEL(f:Roboto Sans, Noto Sans, Helvetica,s:24pt,t:127,m:m)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.788221225566,46.5599358198563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="martello_pop_grid_label.16">
+        <name>88</name>
+        <Style><IconStyle><color>00000000</color></IconStyle><LineStyle><color>ffffffff</color><width>17.00784</width></LineStyle><PolyStyle><color>00000000</color></PolyStyle>LabelStyle<LabelStyle>scale<scale>3</scale></LabelStyle></Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#martello_pop_grid_label.schema">
+            <SimpleData name="GRD_ID">1kmN2606E4380</SimpleData>
+            <SimpleData name="TOT_P">88</SimpleData>
+            <SimpleData name="CNTR_CODE">IT</SimpleData>
+            <SimpleData name="METHD_CL">M</SimpleData>
+            <SimpleData name="YEAR">2011</SimpleData>
+            <SimpleData name="DATA_SRC">IT</SimpleData>
+            <SimpleData name="TOT_P_CON_DT">0</SimpleData>
+            <SimpleData name="OGR_STYLE">BRUSH(fc:#00000000);PEN(c:#ffffffff,w:6);SYMBOL(c:#00000000,id:);LABEL(f:Roboto Sans, Noto Sans, Helvetica,s:24pt,t:88,m:m)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.7753246459891,46.569035075218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="martello_pop_grid_label.17">
+        <name>211</name>
+        <Style><IconStyle><color>00000000</color></IconStyle><LineStyle><color>ffffffff</color><width>17.00784</width></LineStyle><PolyStyle><color>00000000</color></PolyStyle>LabelStyle<LabelStyle>scale<scale>3</scale></LabelStyle></Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#martello_pop_grid_label.schema">
+            <SimpleData name="GRD_ID">1kmN2606E4381</SimpleData>
+            <SimpleData name="TOT_P">211</SimpleData>
+            <SimpleData name="CNTR_CODE">IT</SimpleData>
+            <SimpleData name="METHD_CL">M</SimpleData>
+            <SimpleData name="YEAR">2011</SimpleData>
+            <SimpleData name="DATA_SRC">IT</SimpleData>
+            <SimpleData name="TOT_P_CON_DT">0</SimpleData>
+            <SimpleData name="OGR_STYLE">BRUSH(fc:#00000000);PEN(c:#ffffffff,w:6);SYMBOL(c:#00000000,id:);LABEL(f:Roboto Sans, Noto Sans, Helvetica,s:24pt,t:211,m:m)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.7883544642498,46.568940291388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="martello_pop_grid_label.18">
+        <name>31</name>
+        <Style><IconStyle><color>00000000</color></IconStyle><LineStyle><color>ffffffff</color><width>17.00784</width></LineStyle><PolyStyle><color>00000000</color></PolyStyle>LabelStyle<LabelStyle>scale<scale>3</scale></LabelStyle></Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#martello_pop_grid_label.schema">
+            <SimpleData name="GRD_ID">1kmN2606E4382</SimpleData>
+            <SimpleData name="TOT_P">31</SimpleData>
+            <SimpleData name="CNTR_CODE">IT</SimpleData>
+            <SimpleData name="METHD_CL">M</SimpleData>
+            <SimpleData name="YEAR">2011</SimpleData>
+            <SimpleData name="DATA_SRC">IT</SimpleData>
+            <SimpleData name="TOT_P_CON_DT">0</SimpleData>
+            <SimpleData name="OGR_STYLE">BRUSH(fc:#00000000);PEN(c:#ffffffff,w:6);SYMBOL(c:#00000000,id:);LABEL(f:Roboto Sans, Noto Sans, Helvetica,s:24pt,t:31,m:m)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.8013842401123,46.5688439279958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="martello_pop_grid_label.19">
+        <name>26</name>
+        <Style><IconStyle><color>00000000</color></IconStyle><LineStyle><color>ffffffff</color><width>17.00784</width></LineStyle><PolyStyle><color>00000000</color></PolyStyle>LabelStyle<LabelStyle>scale<scale>3</scale></LabelStyle></Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#martello_pop_grid_label.schema">
+            <SimpleData name="GRD_ID">1kmN2607E4381</SimpleData>
+            <SimpleData name="TOT_P">26</SimpleData>
+            <SimpleData name="CNTR_CODE">IT</SimpleData>
+            <SimpleData name="METHD_CL">M</SimpleData>
+            <SimpleData name="YEAR">2011</SimpleData>
+            <SimpleData name="DATA_SRC">IT</SimpleData>
+            <SimpleData name="TOT_P_CON_DT">0</SimpleData>
+            <SimpleData name="OGR_STYLE">BRUSH(fc:#00000000);PEN(c:#ffffffff,w:6);SYMBOL(c:#00000000,id:);LABEL(f:Roboto Sans, Noto Sans, Helvetica,s:24pt,t:26,m:m)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.7884877611076,46.5779447164286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="martello_pop_grid_label.20">
+        <name>21</name>
+        <Style><IconStyle><color>00000000</color></IconStyle><LineStyle><color>ffffffff</color><width>17.00784</width></LineStyle><PolyStyle><color>00000000</color></PolyStyle>LabelStyle<LabelStyle>scale<scale>3</scale></LabelStyle></Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#martello_pop_grid_label.schema">
+            <SimpleData name="GRD_ID">1kmN2607E4382</SimpleData>
+            <SimpleData name="TOT_P">21</SimpleData>
+            <SimpleData name="CNTR_CODE">IT</SimpleData>
+            <SimpleData name="METHD_CL">M</SimpleData>
+            <SimpleData name="YEAR">2011</SimpleData>
+            <SimpleData name="DATA_SRC">IT</SimpleData>
+            <SimpleData name="TOT_P_CON_DT">0</SimpleData>
+            <SimpleData name="OGR_STYLE">BRUSH(fc:#00000000);PEN(c:#ffffffff,w:6);SYMBOL(c:#00000000,id:);LABEL(f:Roboto Sans, Noto Sans, Helvetica,s:24pt,t:21,m:m)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.8015197396375,46.5778483342029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="martello_pop_grid_label.21">
+        <name>31</name>
+        <Style><IconStyle><color>00000000</color></IconStyle><LineStyle><color>ffffffff</color><width>17.00784</width></LineStyle><PolyStyle><color>00000000</color></PolyStyle>LabelStyle<LabelStyle>scale<scale>3</scale></LabelStyle></Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#martello_pop_grid_label.schema">
+            <SimpleData name="GRD_ID">1kmN2607E4383</SimpleData>
+            <SimpleData name="TOT_P">31</SimpleData>
+            <SimpleData name="CNTR_CODE">IT</SimpleData>
+            <SimpleData name="METHD_CL">M</SimpleData>
+            <SimpleData name="YEAR">2011</SimpleData>
+            <SimpleData name="DATA_SRC">IT</SimpleData>
+            <SimpleData name="TOT_P_CON_DT">0</SimpleData>
+            <SimpleData name="OGR_STYLE">BRUSH(fc:#00000000);PEN(c:#ffffffff,w:6);SYMBOL(c:#00000000,id:);LABEL(f:Roboto Sans, Noto Sans, Helvetica,s:24pt,t:31,m:m)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.8145516750398,46.5777503721146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="martello_pop_grid_label.22">
+        <name>25</name>
+        <Style><IconStyle><color>00000000</color></IconStyle><LineStyle><color>ffffffff</color><width>17.00784</width></LineStyle><PolyStyle><color>00000000</color></PolyStyle>LabelStyle<LabelStyle>scale<scale>3</scale></LabelStyle></Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#martello_pop_grid_label.schema">
+            <SimpleData name="GRD_ID">1kmN2608E4383</SimpleData>
+            <SimpleData name="TOT_P">25</SimpleData>
+            <SimpleData name="CNTR_CODE">IT</SimpleData>
+            <SimpleData name="METHD_CL">M</SimpleData>
+            <SimpleData name="YEAR">2011</SimpleData>
+            <SimpleData name="DATA_SRC">IT</SimpleData>
+            <SimpleData name="TOT_P_CON_DT">0</SimpleData>
+            <SimpleData name="OGR_STYLE">BRUSH(fc:#00000000);PEN(c:#ffffffff,w:6);SYMBOL(c:#00000000,id:);LABEL(f:Roboto Sans, Noto Sans, Helvetica,s:24pt,t:25,m:m)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.8146894373366,46.5867547127275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

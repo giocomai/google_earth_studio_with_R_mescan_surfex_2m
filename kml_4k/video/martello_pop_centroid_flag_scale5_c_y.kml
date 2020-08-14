@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="martello_pop_centroid_flag_scale5_c_y.schema">
+      <SimpleField name="OGR_STYLE" type="string"/>
+    </Schema>
+    <Document id="martello_pop_centroid_flag_scale5_c_y">
+      <name>martello_pop_centroid_flag_scale5_c_y</name>
+      <Placemark id="martello_pop_centroid_flag_scale5_c_y.1">
+        <Style><IconStyle><color>ff00ffff</color><Icon><href>https://openclipart.org/image/2000px/svg_to_png/192457/1396291320.png</href></Icon>scale<scale>5</scale></IconStyle><LineStyle><color>ffffffff</color><width>3</width></LineStyle>IconStyle</Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#martello_pop_centroid_flag_scale5_c_y.schema">
+            <SimpleData name="OGR_STYLE">PEN(c:#ffffffff,w:3px);SYMBOL(c:#ffff00ff,id:"https://openclipart.org/image/2000px/svg_to_png/192457/1396291320.png");</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.7819297248866,46.5613048323328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>
